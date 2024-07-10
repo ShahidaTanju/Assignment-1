@@ -4,11 +4,18 @@
     font-style: normal;
 }
 
+.banner-image {
+    background-image: url("../assets/Hero-bg.png");
+    height: 600px;
+    width: 1320px;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
 
 .button {
     color: black;
@@ -29,4 +36,53 @@
 .nav-button {
     padding-top: 20px;
     padding-right: 80px;
+}
+
+.background-image {
+    width: 1340px;
+    height: 700px;
+}
+
+.image {
+    text-align: center;
+}
+
+.header-img {
+    width: 180px;
+    height: 180px;
+    padding-top: 20px;
+
+}
+
+
+.banner-title {
+    font: 48px;
+    padding-left: 330px;
+    padding-right: 200px;
+    width: 650px;
+
+}
+
+.banner-description {
+    font-size: small;
+    padding-left: 300px;
+    padding-right: 90px;
+    width: 750px;
+
+
+}
+
+.banner-button {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.button-design {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    background-color: black;
+    color: aliceblue;
 }
