@@ -89,7 +89,8 @@
 }
 
 .section-1,
-.section-5 {
+.section-5,
+.section-7 {
     text-align: center;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -99,7 +100,8 @@
 }
 
 .section-1-description,
-.section-5-description {
+.section-5-description,
+.section-7-description {
     font-size: small;
     padding-left: 200px;
     padding-right: 60px;
@@ -108,7 +110,8 @@
 }
 
 .section-1-title,
-.section-5-title {
+.section-5-title,
+.section-7-title {
     font: 32px;
 }
 
@@ -182,4 +185,29 @@
     color: #0D1321;
     padding-right: 300px;
     width: 350px;
+}
+
+.section-6 {
+    text-align: center;
+}
+
+.section-8 {
+    display: flex;
+    padding-left: 200px;
+    padding-right: 100px;
+}
+
+
+
+.section-8-desg {
+    width: 330px;
+    height: 250px;
+    margin: auto;
+}
+
+.section-8-description {
+    font-size: small;
+    color: #0D1321;
+    width: 260px;
+    height: 30px;
 }
