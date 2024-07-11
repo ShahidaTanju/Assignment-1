@@ -6,7 +6,7 @@
 
 .banner-image {
     background-image: url("../assets/Hero-bg.png");
-    height: 600px;
+    height: 500px;
     width: 1320px;
 }
 
@@ -68,6 +68,7 @@
     padding-left: 300px;
     padding-right: 90px;
     width: 750px;
+    color: #0D1321;
 
 
 }
@@ -85,4 +86,100 @@
     border-radius: 5px;
     background-color: black;
     color: aliceblue;
+}
+
+.section-1,
+.section-5 {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin: 50px;
+}
+
+.section-1-description,
+.section-5-description {
+    font-size: small;
+    padding-left: 200px;
+    padding-right: 60px;
+    width: 750px;
+    color: #0D1321;
+}
+
+.section-1-title,
+.section-5-title {
+    font: 32px;
+}
+
+.section-2,
+.section-3,
+.section-4 {
+    display: flex;
+}
+
+.section-2-title,
+.section-4-title {
+    font: 24px;
+    color: #0D1321;
+    padding-left: 300px;
+    width: 320px;
+}
+
+.section-2-description,
+.section-4-description {
+    font-size: small;
+    color: #0D1321;
+    padding-left: 300px;
+    width: 400px;
+}
+
+.section-2-button,
+.section-4-button {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.button-3,
+.button-4,
+.button-5 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    font: 20px;
+    color: #0D1321;
+}
+
+.section-2-img {
+    padding-left: 120px;
+    width: 260px;
+    height: 220px;
+}
+
+.section-4-img {
+    padding-left: 120px;
+    width: 220px;
+    height: 220px;
+}
+
+.section-3-img {
+    padding-left: 280px;
+    width: 230px;
+    height: 230px;
+}
+
+.section-3-title {
+    font: 24px;
+    color: #0D1321;
+    padding-right: 250px;
+    width: 420px;
+}
+
+.section-3-description {
+    font-size: small;
+    color: #0D1321;
+    padding-right: 300px;
+    width: 350px;
 }
